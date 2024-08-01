@@ -10,5 +10,5 @@ Esta pagina actua como un atlas para descargar todos los niveles de los
 ports que se realicen a Funky Maker: Mobile!
 
 Los ports son descargados desde Google Drive, si va lento, chillenle a ellos.
-La pagina fue creada casi por completo por mi mismo, usando Bootstrap con Popper y JQuery
+La pagina fue creada casi por completo por mi mismo, usando Bootstrap con Popper y JQuery.
 El extra de ayuda fue de [Claude.ai](https://claude.ai), sobre todo para el soporte de movil. (El futuro es hoy, ¿Oiste viejo?)
